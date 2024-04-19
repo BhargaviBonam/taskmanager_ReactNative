@@ -1,7 +1,7 @@
 # taskmanager_ReactNative
 This is react native notes manager app
 
-clone the repo by using the command   #git clone 
+clone the repo by using the command   #git clone https://github.com/BhargaviBonam/taskmanager_ReactNative.git
 
 move to the folder by using the command #cd taskmanager_ReactNative
 
